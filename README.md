@@ -1,4 +1,4 @@
-# Next.js Starter Template 🚀
+# A Next.js Starter Template
 
 A production-ready starter template with everything you need to ship fast.
 
@@ -143,7 +143,7 @@ src/
 ├── types/                 # TypeScript types
 │   ├── database.types.ts  # Supabase generated types
 │   └── index.ts           # Shared types
-└── middleware.ts           # Next.js middleware (route protection)
+└── middleware.ts          # Next.js middleware (route protection)
 ```
 
 ---
